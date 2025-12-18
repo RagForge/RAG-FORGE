@@ -1,2 +1,2 @@
 # RAG-FORGE
-The Ultimate Dataset Forger - God-Mode tool for RAG pipeline optimization
+The Ultimate Dataset **Forger** | **Hyper-Mode** tool for **RAG** pipeline optimization.
